@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfNote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Note>
+    <Surname>Крупин</Surname>
+    <Name>Максим</Name>
+    <Patronymic>Сергеевич</Patronymic>
+    <Street>Ленина</Street>
+    <Building>10</Building>
+    <Flat>10</Flat>
+    <Phone>(953) 874-6844</Phone>
+  </Note>
+  <Note>
+    <Surname>Иванов</Surname>
+    <Name>Иван</Name>
+    <Patronymic>Иванович</Patronymic>
+    <Street>Иванова</Street>
+    <Building>149</Building>
+    <Flat>55</Flat>
+    <Phone>(888) 888-8888</Phone>
+  </Note>
+  <Note>
+    <Surname>Земцов</Surname>
+    <Name>Никита</Name>
+    <Patronymic>Андреевич</Patronymic>
+    <Street>Карла Маркса</Street>
+    <Building>23</Building>
+    <Flat>77</Flat>
+    <Phone>(912) 894-4567</Phone>
+  </Note>
+  <Note>
+    <Surname>Неизвестов</Surname>
+    <Name>Неизвест</Name>
+    <Patronymic>Неизвестович</Patronymic>
+    <Street>Неизвестна</Street>
+    <Building>1</Building>
+    <Flat>1</Flat>
+    <Phone>(000) 000-0000</Phone>
+  </Note>
+  <Note>
+    <Surname>Быков</Surname>
+    <Name>Александр</Name>
+    <Patronymic>Владимирович</Patronymic>
+    <Street>Спасская</Street>
+    <Building>13</Building>
+    <Flat>13</Flat>
+    <Phone>(912) 777-8085</Phone>
+  </Note>
+  <Note>
+    <Surname>Микки</Surname>
+    <Name>Маус</Name>
+    <Patronymic>МиккиМаусович</Patronymic>
+    <Street>ДиснейЛенд</Street>
+    <Building>11</Building>
+    <Flat>8</Flat>
+    <Phone>(894) 561-4844</Phone>
+  </Note>
+</ArrayOfNote>
